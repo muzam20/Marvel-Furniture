@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Penthouse Renovation",
+        "category": "Interior Design",
+        "description": "Complete furnishing for a luxury downtown penthouse.",
+        "image": "assets/image 2.png"
+    },
+    {
+        "id": 2,
+        "title": " Modular Kitchen Designs",
+        "category": "Kitchens",
+        "description": "Modular kitchen design with sleek cabinetry, smart storage solutions, and seamless integration for a functional yet elegant cooking space..",
+        "image": "assets/Image 3.png "
+    },
+    {
+        "id": 3,
+        "title": "Modern Office Lounge",
+        "category": "Commercial",
+        "description": "Sophisticated lounge area for a tech headquarters.",
+        "image": "assets/wardrobe.png"
+    },
+    {
+        "id": 4,
+        "title": "Rustic Farmhouse",
+        "category": "Whole Home",
+        "description": "Bringing warmth and modern utility to a historic property.",
+        "image": "assets/main dooe 2.png"
+    },
+     {
+        "id": 4,
+        "title": "Rustic Farmhouse",
+        "category": "Whole Home",
+        "description": "Bringing warmth and modern utility to a historic property.",
+        "image": "assets/image.png"
+    },
+    {
+        "id": 4,
+        "title": "Rustic Farmhouse",
+        "category": "Whole Home",
+        "description": "Bringing warmth and modern utility to a historic property.",
+        "image": "assets/mirror.png"
+    },
+   {
+  "id": 5,
+  "title": "Luxury Main Door Design",
+  "category": "Architectural Design",
+  "description": "Custom-designed main doors featuring premium materials, elegant finishes, and enhanced security for a grand first impression.",
+  "image": "assets/main door.png"
+}
+
+]

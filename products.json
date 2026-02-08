@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "The Cloud Sofa",
+    "category": "Sofas",
+    "description": "Experience floating comfort with our signature premium velvet sectional.",
+    "image": "assets/image.png",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "title": "Maharaja Bed",
+    "category": "Beds",
+    "description": "Hand-crafted solid oak frame with a floating design and integrated lighting.",
+    "image": "assets/mahraja 1 bed.png",
+    "badge": "New Arrival"
+  },
+  {
+    "id": 3,
+    "title": "Chef's Dream Kitchen",
+    "category": "Modular Kitchens",
+    "description": "Italian marble countertops with smart storage solutions and matte finish.",
+    "image": "assets/image 3.png",
+    "badge": "Customizable"
+  },
+  {
+    "id": 4,
+    "title": "Walk-in Luxe Wardrobe",
+    "category": "Wardrobes",
+    "description": "Floor-to-ceiling glass doors with automatic lighting and cedar lining.",
+    "image": "assets/wardrobe.png",
+    "badge": null
+  },
+  {
+    "id": 5,
+    "title": "TV Set",
+    "category": "Modular TV Set",
+    "description": "A modular TV unit is a highly versatile, customizable, and modern entertainment center.",
+    "image": "assets/tv set.jpeg",
+    "badge": "Limited Edition"
+  },
+     {
+  "id": 6,
+  "title": "Luxury Main Door Design",
+  "category": "Architectural Design",
+  "description": "Custom-designed main doors featuring premium materials, elegant finishes, and enhanced security for a grand first impression.",
+  "image": "assets/main door.png",
+  "badge": "Limited Edition"
+}
+  
+]
