@@ -159,15 +159,17 @@ img {
     font-weight: 700;
     letter-spacing: -1px;
 }
-
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 2rem;
+    gap: 1rem;       /* smaller gap */
+    flex-wrap: wrap; /* wrap if too many links */
+    overflow-x: auto; 
+    white-space: nowrap;
 }
 
 .nav-links a {
-    font-size: 0.9rem;
+    font-size: 0.8rem; /* smaller font */
     text-transform: uppercase;
     letter-spacing: 1px;
 }
